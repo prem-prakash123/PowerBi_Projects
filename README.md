@@ -1,2 +1,2 @@
 Ecommerce Dashboard
-Dashboard Screenshot :-Ecommerce_Dashboard.png
+Dashboard Screenshot :- https://github.com/prem-prakash123/Power_bi/blob/main/Ecommerce_Dashboard.png
