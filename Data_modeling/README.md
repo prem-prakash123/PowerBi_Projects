@@ -1,2 +1,2 @@
 Data modeling
-![Data Modeling](Data_modeling/image)
+![Data Modeling](image/Data_modeling.png)
