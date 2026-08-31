@@ -1,2 +1,2 @@
 Ecommerce Dashboard
-Dashboard Screenshot :- ![Dashboard](dashboard.png)
+Dashboard Screenshot :- ![Dashboard](Ecommerce_Dashboard.png)
