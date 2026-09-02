@@ -35,12 +35,14 @@ Tools & Techniques:
 * Interactive Slicers
 * KPI Cards
 * Data Visualization
-
+* 
 📂 Folder: `Customer-Churn-Analysis`
-Dashboard Image-
+
+Customer Churn Analysis Dashboard Image-
+
 ![image](https://github.com/prem-prakash123/PowerBi_Projects/blob/main/1.Churn-Customer-Analysis/Images/Customer%20Analysis%20Dashboard.png)
 
-### 2. 🛒 E-Commerce Sales Analysis
+2. 🛒 E-Commerce Sales Analysis
 
 **Objective:**
 Analyze e-commerce sales data to understand sales performance, customer behavior, product performance, and revenue trends.
