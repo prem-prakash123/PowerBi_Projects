@@ -1,4 +1,4 @@
-Customer Churn Analysis Dashboard - 1.Churn-Customer-Analysis/Images/[Customer Analysis Dashboard.png]
+Customer Churn Analysis Dashboard - https://github.com/prem-prakash123/PowerBi_Projects/blob/main/1.Churn-Customer-Analysis/Images/Churn%20customer%20analysis%20dashboard.png
 
 📌 Project Overview
 
