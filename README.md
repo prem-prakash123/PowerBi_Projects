@@ -38,7 +38,7 @@ Tools & Techniques:
 
 📂 Folder: `Customer-Churn-Analysis`
 Dashboard Image-
-!(https://github.com/prem-prakash123/PowerBi_Projects/blob/main/1.Churn-Customer-Analysis/Images/Customer%20Analysis%20Dashboard.png)
+![image](https://github.com/prem-prakash123/PowerBi_Projects/blob/main/1.Churn-Customer-Analysis/Images/Customer%20Analysis%20Dashboard.png)
 
 ### 2. 🛒 E-Commerce Sales Analysis
 
