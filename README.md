@@ -42,7 +42,7 @@ Customer Churn Analysis Dashboard Image-
 
 ![image](https://github.com/prem-prakash123/PowerBi_Projects/blob/main/1.Churn-Customer-Analysis/Images/Customer%20Analysis%20Dashboard.png)
 
-2. 🛒 E-Commerce Sales Analysis
+2. 🛒 E-Commerce Analysis
 
 **Objective:**
 Analyze e-commerce sales data to understand sales performance, customer behavior, product performance, and revenue trends.
@@ -68,11 +68,13 @@ Analyze e-commerce sales data to understand sales performance, customer behavior
 * Data Modeling
 * Data Visualization
 
-📂 Folder: `E-Commerce-Sales-Analysis`
+📂 Folder: `ECommerce-Analysis`
 
----
+Ecommerce-Analysis Dashboard Image-
 
-### 3. 💰 Financial Performance Dashboard
+![images](https://github.com/prem-prakash123/PowerBi_Projects/blob/main/2.Ecommerce-Analysis/Images/Ecommerce_Sales_dashboard.png)
+
+### 3. 💰 Financial-Analysis
 
 **Objective:**
 Build an interactive financial dashboard to monitor business performance and analyze revenue, profit, costs, and financial trends.
@@ -99,11 +101,13 @@ Build an interactive financial dashboard to monitor business performance and ana
 * KPI Analysis
 * Interactive Dashboard
 
-📂 Folder: `Financial-Performance-Dashboard`
+📂 Folder: `Financial-Analysis`
 
----
+Financial-Analysis Dashboard Image
 
-### 4. 📈 Sales & Marketing Data Model
+![image](https://github.com/prem-prakash123/PowerBi_Projects/blob/main/Financial-Analysis/Images/Financial_Dashboard.png)
+
+### 4. 📈 Data_Modeling
 
 **Objective:**
 Build a structured Power BI data model to analyze sales and marketing performance using multiple related tables.
@@ -130,9 +134,11 @@ Build a structured Power BI data model to analyze sales and marketing performanc
 * Star Schema
 * Relationships
 
-📂 Folder: `Sales-Marketing-Data-Model`
+📂 Folder: `Data modeling`
 
----
+Data Modeling Images
+
+![images](https://github.com/prem-prakash123/PowerBi_Projects/blob/main/Data_modeling/image/Data_modeling.png)
 
 ## 🛠️ Skills Demonstrated
 
@@ -195,22 +201,22 @@ PowerBI-Projects/
 │
 ├── README.md
 │
-├── Customer-Churn-Analysis/
-│   ├── Customer-Churn.pbix
+├── Churn-Customer-Analysis/
+│   ├── Churn_Customer_Analysis.pbix
 │   ├── Dataset/
 │   └── Screenshots/
 │
-├── E-Commerce-Sales-Analysis/
+├── ECommerce-Analysis/
 │   ├── E-Commerce-Sales.pbix
 │   ├── Dataset/
 │   └── Screenshots/
 │
-├── Financial-Performance-Dashboard/
-│   ├── Financial-Performance.pbix
+├── Financial-Analysis/
+│   ├── Dashbaord.pbix
 │   ├── Dataset/
 │   └── Screenshots/
 │
-└── Sales-Marketing-Data-Model/
+└── Data_Modeling/
     ├── Sales-Marketing-Model.pbix
     ├── Dataset/
     └── Screenshots/
